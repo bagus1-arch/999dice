@@ -1,7 +1,7 @@
 {
 
  "Account": {
-"Username": "wildansap",
+"Username": "mbahgudal",
      "Password": "madukoro123"
      },
  "Target Profit": "100",
@@ -13,7 +13,7 @@
  "Config": [{
 
      "Name Bet Set": "1⃣ Mining Chance 17",
-     "Base Bet": "0.0004",
+     "Base Bet": "0.000001",
      "Max Bet": "OFF",
      "Chance": "17",
      "Random Chance": {
